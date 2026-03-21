@@ -4,7 +4,7 @@ Piezoelectric inkjet is a drop-on-demand printing technology in which droplets a
 
 
 <p align="center">
-  <img src="Schematicdiagram.jpg" alt="Schematic diagram" width="600">
+  <img src="Schematicdiagram.jpg" alt="Schematic diagram" width="1000">
 </p>
 
 <p align="center"><strong>Fig 1. Schematic diagram of the inverse PIDoN</strong></p>
